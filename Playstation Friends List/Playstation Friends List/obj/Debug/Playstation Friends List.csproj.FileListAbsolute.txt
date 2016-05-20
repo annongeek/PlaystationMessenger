@@ -1,0 +1,21 @@
+c:\users\jt-gb\onedrive\documents\visual studio 2015\Projects\Playstation Friends List\Playstation Friends List\bin\Debug\Playstation Friends List.exe.config
+C:\Users\jt-gb\OneDrive\Documents\Visual Studio 2015\Projects\Playstation Friends List\Playstation Friends List\bin\Debug\Playstation Friends List.exe
+C:\Users\jt-gb\OneDrive\Documents\Visual Studio 2015\Projects\Playstation Friends List\Playstation Friends List\bin\Debug\Playstation Friends List.pdb
+C:\Users\jt-gb\OneDrive\Documents\Visual Studio 2015\Projects\Playstation Friends List\Playstation Friends List\obj\Debug\Playstation Friends List.csprojResolveAssemblyReference.cache
+C:\Users\jt-gb\OneDrive\Documents\Visual Studio 2015\Projects\Playstation Friends List\Playstation Friends List\obj\Debug\Playstation_Friends_List.FormMain.resources
+C:\Users\jt-gb\OneDrive\Documents\Visual Studio 2015\Projects\Playstation Friends List\Playstation Friends List\obj\Debug\Playstation_Friends_List.Properties.Resources.resources
+C:\Users\jt-gb\OneDrive\Documents\Visual Studio 2015\Projects\Playstation Friends List\Playstation Friends List\obj\Debug\Playstation Friends List.csproj.GenerateResource.Cache
+C:\Users\jt-gb\OneDrive\Documents\Visual Studio 2015\Projects\Playstation Friends List\Playstation Friends List\obj\Debug\Playstation Friends List.exe
+C:\Users\jt-gb\OneDrive\Documents\Visual Studio 2015\Projects\Playstation Friends List\Playstation Friends List\obj\Debug\Playstation Friends List.pdb
+C:\Users\jt-gb\Documents\Visual Studio 2015\Projects\Playstation Friends List\Playstation Friends List\bin\Debug\Playstation Friends List.exe.config
+C:\Users\jt-gb\Documents\Visual Studio 2015\Projects\Playstation Friends List\Playstation Friends List\obj\Debug\Playstation Friends List.exe
+C:\Users\jt-gb\Documents\Visual Studio 2015\Projects\Playstation Friends List\Playstation Friends List\obj\Debug\Playstation Friends List.pdb
+C:\Users\jt-gb\Documents\Visual Studio 2015\Projects\Playstation Friends List\Playstation Friends List\bin\Debug\Playstation Friends List.exe
+C:\Users\jt-gb\Documents\Visual Studio 2015\Projects\Playstation Friends List\Playstation Friends List\bin\Debug\Playstation Friends List.pdb
+C:\Users\jt-gb\Documents\Visual Studio 2015\Projects\Playstation Friends List\Playstation Friends List\obj\Debug\Playstation Friends List.csprojResolveAssemblyReference.cache
+C:\Users\jt-gb\Documents\Visual Studio 2015\Projects\Playstation Friends List\Playstation Friends List\obj\Debug\Playstation_Friends_List.FormMain.resources
+C:\Users\jt-gb\Documents\Visual Studio 2015\Projects\Playstation Friends List\Playstation Friends List\obj\Debug\Playstation_Friends_List.Properties.Resources.resources
+C:\Users\jt-gb\Documents\Visual Studio 2015\Projects\Playstation Friends List\Playstation Friends List\obj\Debug\Playstation Friends List.csproj.GenerateResource.Cache
+C:\Users\jt-gb\Documents\Visual Studio 2015\Projects\Playstation Friends List\Playstation Friends List\obj\Debug\Playstation_Friends_List.FormSignIn.resources
+C:\Users\jt-gb\Documents\Visual Studio 2015\Projects\Playstation Friends List\Playstation Friends List\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jt-gb\Documents\Visual Studio 2015\Projects\Playstation Friends List\Playstation Friends List\bin\Debug\Newtonsoft.Json.xml
